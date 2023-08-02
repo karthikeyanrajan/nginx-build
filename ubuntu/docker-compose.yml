@@ -1,7 +1,7 @@
 version: '2.1'
 services:
   web:
-	image: new:01
-	container_name: nginx
-	ports:
-  	- "8768:80"
+   image: new:01
+   container_name: nginx
+   ports:
+    - "8268:80"
