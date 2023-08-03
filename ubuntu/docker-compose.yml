@@ -4,4 +4,4 @@ services:
    image: new:01
    container_name: nginx
    ports:
-    - "8268:80"
+    - "2023:80"

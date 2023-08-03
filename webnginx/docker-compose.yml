@@ -4,4 +4,4 @@ services:
     image: game:01
     container_name: gameing
     ports:
-     - "8764:80"
+     - "2020:80"
